@@ -1,0 +1,5 @@
+/.venv
+/.vscode
+/errors.txt
+/reports
+/__pycache__
